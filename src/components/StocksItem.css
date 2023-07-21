@@ -1,0 +1,12 @@
+.follow-text {
+  background-color: lightgray;
+  border-radius: 8px;
+  color: blue;
+  padding-left: 0.5rem;
+  text-align: center;
+  width: 40px;
+}
+
+.follow-text:hover {
+  filter: brightness(85%);
+}

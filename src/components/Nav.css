@@ -1,0 +1,13 @@
+h2 {
+  cursor: pointer;
+}
+
+h2:hover {
+  filter: brightness(15%);
+}
+
+.navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
